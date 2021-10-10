@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+.g-3, .gx-3 {
+    --bs-gutter-x: -15rem !important;
+}
+.g-2, .gy-2 {
+    --bs-gutter-y: -0.5rem !important;
+}
